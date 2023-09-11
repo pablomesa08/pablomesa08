@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi, I'm Pablo👋
 
-<!--
-**pablomesa08/pablomesa08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Colombia.
+- 📚 Systems Engineering Student.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [**WIP Company**]- Company website using HTML, CSS and JavaScript.
+- [**Ningiri**]- Platformer and Metroidvania videogame powered by Unity.
+- [**BasicRestApi-Spring**] - Basic Rest Api using Spring Boot.
+
+## Skills
+
+- HTML (https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
+- CSS (https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
+- Bootstrap (https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
+- Flutter (https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
+- Java (https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
