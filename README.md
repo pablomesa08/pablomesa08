@@ -11,8 +11,8 @@
 
 ## Skills
 
-- HTML (https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
-- CSS (https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
-- Bootstrap (https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
-- Flutter (https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
-- Java (https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
+- (https://img.shields.io/badge/-HTML-000000?style=flat&logo=HTML5)
+- (https://img.shields.io/badge/-CSS-000000?style=flat&logo=CSS3)
+- (https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=Bootstrap)
+- (https://img.shields.io/badge/-Flutter-000000?style=flat&logo=Flutter)
+- (https://img.shields.io/badge/-Java-000000?style=flat&logo=Java)
